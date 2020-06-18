@@ -1,0 +1,18 @@
+# local package
+missingno
+scipy
+Pillow
+wordcloud
+matplotlib
+seaborn
+numpy
+pandas
+sklearn
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+python-dotenv>=0.5.1
